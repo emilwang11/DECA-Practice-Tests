@@ -1,0 +1,34 @@
+{
+"marketTest": [
+  {
+    "prompt": "The first step in developing a valid contract involves",
+    "choices": ["negotiating a price.","selling a product.","making an offer.","setting a deadline."],
+    "answer": "C",
+    "explanation": "Making an offer. The first step in developing a valid contract involves one party making an offer to do something for a second party in exchange for something provided by the second party. The first party must make known its offer before the second party can review it and decide whether to accept. A valid contract cannot be formed unless an offer is made and accepted. The subject of a valid contract might be selling a product. Two parties might negotiate a price before one party makes an offer to a second party. The party making the offer may set a deadline for the second party to accept or reject the offer.",
+    "source": "2015 Provs Marketing"
+
+  },
+  {
+    "prompt": "Which of the following is an example of involuntary debt:",
+    "choices":["Court judgment lien","Automobile loan","Fixed-rate mortgage","Unsecured line of credit"],
+    "answer": "A",
+    "explanation": "Court judgment lien. A debtor-creditor relationship can be based on two different types of debt—voluntary and involuntary. Voluntary debt includes any debt that a person or business willingly creates. Examples include automobile loans, mortgages, and lines of credit. Involuntary debt is debt that a person or business does not ask for nor willingly assume. For example, if a court of law finds a business liable for a customer's injuries resulting from a fall on the business's premises, the court may place a judgment lien on the business's property to ensure that the business compensates the customer for her/his injuries. The business doesn't want to take on the debt; instead, the court determines that the business owes the customer money and requires the business to pay the debt. The lien is an involuntary debt for the business.",
+    "source": "2015 Provs Marketing"
+},
+{
+  "prompt": "What is one action that customer service can take to facilitate the order processing?",
+  "choices":["Oversee assembly","Communicate effectively","Negotiate aggressively","Monitor inventory"],
+  "answer": "B",
+  "explanation": "Communicate effectively. Effective communication is extremely important to make sure that a customer's order is processed correctly and on time. However, communication is a two-way street. Customer service needs to communicate with customers, and customers need to communicate their needs to customer service. By maintaining an open line of communication, customer service will be able to facilitate order processing. Customer service is not responsible for overseeing assembly or monitoring inventory. It is not appropriate to negotiate aggressively because this might have a negative impact on relationships with customers.",
+  "source": "2015 Provs Marketing"
+},
+{
+  "prompt": "Peak Enterprises produces a very small, inexpensive product. What form of distribution would be the most appropriate for this business?",
+  "choices":["Indirect","Direct","Middleman","Industrial"],
+  "answer": "A",
+  "explanation": "Indirect. Indirect distribution is a channel of distribution in which goods and services move from the producer to the channel members and then to consumers or industrial users. Direct distribution is a channel of distribution in which goods and services move directly from the producer to the consumer or industrial user. Industrial distribution and middleman distribution are not forms of distribution.",
+  "source": "2015 Provs Marketing"
+
+}
+]
+}

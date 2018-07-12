@@ -1,0 +1,33 @@
+{
+  "finTest": [
+    {
+      "prompt": "Torts relating to misrepresented facts about a business's goods or services may be subject to a lawsuit on the basis of",
+      "choices": ["assault","fraud", "intrusion", "defamation"],
+      "answer": "B",
+      "explanation": "Fraud. A tort is a private wrongdoing against another person. Businesses can be held responsible in a variety of torts. For example, suppose a business's employee intentionally provides misleading product information to a customer in order to make a sale. Then, the customer purchases and is injured by the product based on the employee's misleading information. The customer may file a civil lawsuit against the business, and in some situations, the business's employee for fraudulent behavior. Assault and intrusion are criminal acts that are addressed in the criminal court system rather than the civil court system. Defamation is a tort that involves harm to an individual's or business's reputation.",
+      "source": "2018 Provs Finance"
+
+    },
+    {
+      "prompt": "The nature of an agent's work and the level of an agent's control are factors that determine if a(n) __________ relationship exists.",
+      "choices":["controller-associate", "tutor-student", "principal-collaborator", "master-servant"],
+      "answer": "D",
+      "explanation": "Master-servant. In legal terms, the master-servant relationship refers to the amount of control that a principal (e.g., employer or client) has over an agent (e.g., employee or attorney). Determining if a master-servant relationship exists is an important consideration when addressing a business's legal issues and disputes, especially in cases that involve liability questions. Factors that determine if a master-servant relationship exists include the nature of the agent's work, the level of the agent's control (e.g., decision making), and the agent's level of supervision. Tutor-student, principal-collaborator, and controller-associate are not terms that are widely used to describe agency relationships in law.",
+      "source": "2018 Provs Finance"
+},
+{
+    "prompt": "Which of the following is an example of insider trading:",
+    "choices":["A senior manager tells a stakeholder that the government did not approve a new product because it did not meet safety standards.","A bank manager reveals to a customer that the interest rates for 30-year-mortgages have reached an all-time low.", "A financial planner advises a client to invest a certain percentage of her/his money in a closed- end mutual fund.", "A company's chief executive officer provides the company's financial auditor with material or financial information."],
+    "answer": "A",
+    "explanation": "A senior manager tells a stakeholder that the government did not approve a new product because it did not meet safety standards. When a group of people have access to non-public information (material information) and make trades based on this knowledge, they have an unfair advantage over others. If the insider (senior manager) gives this information to others (stakeholders) so they can make trades based on the knowledge, both parties could be prosecuted for insider trading. In the example, the company's stock values are likely to be affected by the problems with a new product. When an employee shares material information with a person outside the company and who can act on the knowledge before it is revealed to the general public, it is an example of illegal insider trading. On the other hand, officers and board members of a company who buy or sell their own company's securities, and report the trades to the SEC, are not conducting illegal insider trading activities. Advising customers about mortgage rates, giving financial advice to a client, and providing an auditor with the company's material or financial information are not examples of insider trading.",
+    "source": "2018 Provs Finance"
+  },
+  {
+    "prompt": "Which of the following is a tax-deductible gift:",
+    "choices":["Vacation home", "Charitable donation", "Stocks", "Inherited items"],
+    "answer": "B",
+    "explanation": "Charitable donation. Gifts are money, financial products, or property given to an individual or organization. Some gifts, such as charitable donations, are tax deductible. This means that the donor pays a reduced amount of tax or is exempt from paying the tax, depending on the type and value of the gift. Vacation homes, stocks, and inherited items are taxable gifts.",
+    "source": "2018 Provs Finance"
+  }
+]
+}

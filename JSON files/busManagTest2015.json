@@ -1,0 +1,32 @@
+{
+"busManagTest": [
+  {
+    "prompt": "Which of the following statements is true of legally binding contracts:",
+    "choices": ["They clearly outline both sides of an agreement.","They are not valid unless written.","Breaking one results in a lawsuit and possibly jail time."," They are enforceable for legal and illegal acts."],
+    "answer": "A",
+    "explanation": "They clearly outline both sides of an agreement. Legally binding contracts are meant to clearly outline an agreement. This way, disputes and litigation can hopefully be avoided. Legally binding contracts don't actually have to be written; they can still be valid if they're verbal, but they're much easier to prove if they are in writing. Breaking a contract doesn't always result in a lawsuit or jail time. In fact, most people avoid lawsuits at all costs, since they tend to be expensive and lengthy. Contracts are only enforceable for legal acts.",
+    "source": "2015 Provs Business Management"
+  },
+  {
+    "prompt": "Which of the following is a function of administrative law:",
+    "choices":["Appeal of criminal acts","Passage of statutes","Ratification of treaties","Control of conduct"],
+    "answer": "D",
+    "explanation": "Control of conduct. Administrative law deals with the rules and regulations that have been established by governmental agencies. The legislative branch of the government (i.e., U.S. Congress and Canadian Parliament at the federal level) establishes these agencies, which have the authority to enact and enforce regulations for various administrative functions. One function administrative agencies carry out is the control of conduct, which includes information requirements (e.g., labeling), and codes of standards of various businesses and industries. For example, the agricultural agency establishes grades for food quality and sets standards for food safety. The legislative branch of government has authority to pass statutes (e.g., establish government agencies) and ratify treaties. The judicial branch of government has the authority over the appeals process in the court system.",
+    "source": "2015 Provs Business Management"
+},
+{
+  "prompt": "One way to demonstrate active listening is by",
+  "choices":["taking steps to minimize barriers.","interrupting the speaker to ask questions.","focusing your attention on distractions.","concentrating only on the points that you want to hear."],
+  "answer": "A",
+  "explanation": "Taking steps to minimize barriers. Active listening involves the use of nonverbal cues, paraphrasing, questioning, and other techniques to let a speaker know that a message has been heard and understood. Barriers such as telephone calls, loud music, and other noises can hinder the ability to focus on what the speaker is saying. Taking steps to minimize barriers, such as closing a door, or letting a phone call go to voice mail can decrease distractions and improve active listening. Active listeners wait until a speaker has finished talking before asking questions. Interrupting the speaker is rude and distracting. If the listener pays attention only to the points s/he wants to hear, the message may be misunderstood.",
+  "source": "2015 Provs Business Management"
+},
+{
+  "prompt": "Which of the following is considered a verbal exchange:",
+  "choices":["Press releases","teleconferences","banner advertisments","email"],
+  "answer": "B",
+  "explanation": "Teleconferences. Verbal exchanges are based on spoken words. Other examples of verbal exchanges include talking in meetings, sales presentations, and speeches. Written communications utilize written words. Examples of written communication include letters, email messages, memos, reports, banner advertisements, and press releases.",
+  "source": "2015 Provs Business Management"
+}
+]
+}

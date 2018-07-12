@@ -1,0 +1,34 @@
+{
+"prinTest": [
+  {
+    "prompt": "What type of business is owned by stockholders who share the business's profits?",
+    "choices": ["Corporation", "Partnership","Cooperative", "Sole proprietorship"],
+    "answer": "A",
+    "explanation": "Corporation. A corporation is an artificial entity with legal status owned by stockholders who have purchased stock. Sole proprietorships are owned by one person who receives all the profits. Partnerships are owned by two or more people who share the profits. A cooperative is owned and operated by its users/owners, and it is designed to supply goods and services to its members, not necessarily to make a profit.",
+    "source": "2015 Provs Business Admin"
+
+  },
+  {
+    "prompt": " What question is important to ask when determining if online sources are providing reliable information for a research report?",
+    "choices":["Do I agree with the opinions expressed in the article?", "What are the author's credentials?", "Can the author be quoted?", "Do I need to provide a bibliography?"],
+    "answer": "B",
+    "explanation": "What are the author's credentials? When identifying sources that provide relevant, valid written material, the researcher evaluates a variety of factors, including the credibility of the author. A credible author would have expertise and knowledge of the topic at hand. For example, an economics professor's article about aggregate demand would tend to be more trustworthy than if the article was written by a construction worker. Research reports should look at a topic from different viewpoints to ensure that it is objective and free of bias. Whether the author can be quoted or if a bibliography is required are not questions that address the reliability of the online information.",
+    "source": "2015 Provs Business Admin"
+},
+{
+  "prompt": "It is effective to follow a step-by-step order when applying written directions to",
+  "choices":["take notes.", "give commands.","read materials.","achieve tasks."],
+  "answer": "D",
+  "explanation": "Achieve tasks. Business employees often are expected to apply written directions to achieve tasks, such as operating a new piece of office equipment. When applying written directions, it is effective to follow a step-by-step order to be able to perform the task correctly. Most written directions are explained in a step-by-step way because they must be performed in a certain order. Employees do not apply written directions to give commands, read materials, or take notes.",
+  "source": "2015 Provs Business Admin"
+},
+{
+  "prompt": "Which of the following is an example of a procedure:",
+  "choices":["Triton Manufacturing pays employees the standard gas mileage reimbursement rate of $.55 per mile","Employees are permitted to wear open-toed shoes to work, but they may not."],
+  "answer": "D",
+  "explanation": "To order supplies, employees must complete the R-3 form and then give it to their immediate supervisor. Businesses develop policies and procedures to ensure that employees carry out business activities in fair and systematic ways. Policies are general rules to be followed by company personnel, and procedures are the step-by-step processes personnel follow in performing specific tasks. Because the correct answer states the steps of a process (ordering supplies), it is a procedure. Dress codes, vacation time, and reimbursement rates are examples of policies because they are general in nature.",
+  "source": "2015 Provs Business Admin"
+
+}
+]
+}

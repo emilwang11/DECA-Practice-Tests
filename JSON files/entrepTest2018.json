@@ -1,0 +1,33 @@
+{
+  "entrepTest": [
+    {
+      "prompt": "A business that fails to protect its employees from unnecessary risk or health hazards on the job may be sued for",
+      "choices": ["libel.","misrepresentation.","negligence.","incompetence."],
+      "answer": "C",
+      "explanation": "Negligence. A business might be sued for negligence if it does not take reasonable precautions to protect workers from risks or health hazards on the job. The basis of negligence is that the problems could have been easily avoided if the business had made some minor adjustments. Consequently, businesses usually try to make the workplace as safe as possible in order to avoid being sued for negligence. Misrepresentation involves making unrealistic claims about products.Libel is making false statements that harm an individual's reputation. Incompetence involves not having the skills or abilities necessary to perform satisfactorily.",
+      "source": "2018 Provs Entrepreneurship"
+
+    },
+    {
+      "prompt": "What requirement of a legally enforceable contract requires that both of the parties who are entering into the contract are sane, sober, and of legal age?",
+      "choices":["Genuineness of assent","Consideration","Capacity","Legality of purpose "],
+      "answer": "C",
+      "explanation": "Capacity. Certain conditions must be met for a contract to be legally enforceable. Capacity involves having the mental and cognitive ability to make and understand the agreement and the consequences of their actions. If one party is a child or is found to be mentally challenged or impaired, the contract is invalid and unenforceable. Consideration means that the agreement must include something of value that both parties bargain for. Genuineness of assent means that all parties know what they are agreeing to. Legality of purpose means that the agreement must not violate any laws",
+      "source": "2018 Provs Entrepreneurship"
+},
+{
+    "prompt": "The owner receives all of the profits of the business and can act quickly in making business decisions when the form of business ownership is a",
+    "choices":["corporation.","partnership.","joint venture.","sole proprietorship"],
+    "answer": "D",
+    "explanation": "Sole proprietorship. Other advantages of a sole proprietorship are that it is easy to start, it has certain tax advantages, and the details of the business can be kept private. In a partnership, the profits are divided among the partners who sometimes disagree as to how profits should be divided. In a corporation, the profits are divided among the stockholders. The officers of the corporation are responsible for the actual operation and management of the firm. A joint venture is an arrangement that involves two or more businesses entering into a relationship by combining complementary resources, such as technology, skills, capital, or distribution channels, for the benefit of all parties.",
+    "source": "2018 Provs Entrepreneurship"
+  },
+  {
+    "prompt": "Which of the following is the type of tax that businesses are required to collect from customers when they purchase certain goods or services:",
+    "choices":["Estate","Income","Sales","Corporate "],
+    "answer": "C",
+    "explanation": "Sales. Sales taxes are monies charged on sales of certain goods and services by state and/or local governments. The tax amount varies by location. After the business collects the sales tax from customers for their purchases, it pays the monies to the appropriate government agency. Income taxes are monies that the business withholds from its employees' wages. Estate taxes are monies that are collected from a person's estate upon his/her death. Corporations rather than customers pay corporate taxes.",
+    "source": "2018 Provs Entrepreneurship"
+  }
+]
+}

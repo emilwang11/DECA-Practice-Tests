@@ -1,0 +1,32 @@
+  {
+  "hospTest": [
+    {
+      "prompt": "One of the main functions of the legal procedure is to",
+      "choices": ["Establish laws","enact legislation","Resolve disputes", "dissolve businesses"],
+      "answer": "C",
+      "explanation": "Resolve disputes. The legal procedure is the process of reviewing disputes or claims and resolving them in a fair manner. Businesses are often involved in disputes with other entities, such as suppliers or competitors. If a business believes it has been wronged by another, the business follows the appropriate legal procedure to resolve the issue. Enacting legislation, establishing laws, and dissolving businesses are not the main functions of the legal procedure.",
+      "source": "2012-2013 Regionals Hospitality"
+    },
+    {
+      "prompt": "Jake wanted to run his own business but was unsure that he had adequate business skills to be successful. Which type of business would give Jake the help he needs?",
+      "choices":["Business-format franchise","Sole proprietorship", "Private corporation", "Product trade-name franchise"],
+      "answer": "A",
+      "explanation": "Business-format franchise. A business-format franchise is a franchise agreement in which the franchisee must operate under the trade name of the parent company that provides continuous assistance in setting up and operating the business. This kind of business arrangement would give Jake more assistance than any of the other alternatives. A sole proprietorship is a form of business ownership in which the business is owned by one person who takes all of the risk and  yh  bresponsibility. A private corporation is a type of corporation owned by a few people that does not offer its shares for sale to the public. A product trade- name franchise is based on an independent sales relationship between a franchisor and a franchisee to stock and sell a specific line of goods.",
+      "source": "2012-2013 Regionals Hospitality Test"
+},
+{
+    "prompt": "Because the regulations of various jurisdictions differ, tour-bus drivers must be aware of and follow specific_____laws.",
+    "choices":["Traffic", "Airspace", "Shipping", "Property"],
+    "answer": "A",
+    "explanation": "Traffic. Tour-bus drivers must understand traffic laws in each jurisdiction where they travel because laws differ by jurisdiction. For example, one city might allow a vehicle to turn left onto a one-way street at a red light, while another city does not. If the driver does not understand and follow the law, the bus might be involved in an accident that injures the tourists, other vehicles, and pedestrianswer. Airline pilots must understand laws relating to airspace. Laws relating to shipping processes regulate the way certain products are moved or transwerported. Property laws regulate the ways in which land and buildings are used or maintained.",
+    "source": "2012-2013 Regionals Hospitality Test"
+  },
+  {
+    "prompt": "When developing persuasive business letters, it is most important for the writers to think about the readers",
+    "choices":["possible objections.", "decision-making styles.","personal images.","nonverbal cues."],
+    "answer": "A",
+    "explanation": "Possible objections. The purpose of a persuasive letter is to convey information that encourages the reader to take a specific course of action. For example, the purpose of a sales letter is to motivate a person to buy a particular product. An objection is a reason for not taking a specific course of action. When developing persuasive messages, it is important for the writers to think about the readers' possible objections and acknowledge them. By acknowledging the objections and providing a rationale that removes the objections, the writers better position themselves in persuading the readers to take specific actions. Because each reader has different personal images and decision-making styles, it is not feasible for the writer to consider these factors if the letter is going to a lot of people. The readers' nonverbal cues cannot be seen when writing persuasive messages.",
+    "source": "2012-2013 Regionals Hospitality Test"
+  }
+]
+}

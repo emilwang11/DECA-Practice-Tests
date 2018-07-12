@@ -1,0 +1,20 @@
+{
+"TrueOrFalseTest": [
+  {
+  "prompt": "Price is one of the four Ps of Marketing",
+  "answer": "True"
+  },
+  {
+  "prompt": "Profit=Costs-Revenue",
+  "answer": "False"
+},
+{
+  "prompt": "Emails can be an example of direct promotion",
+  "answer": "True"
+},
+{
+  "prompt": "Human resources overlook the operations of a company",
+  "answer": "False"
+}
+]
+}
